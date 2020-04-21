@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.leftCol{
+    float:left;
+
+}
+.rightCol{
+    float:right;
+
+}
+img {
+    width:200px;
+    height:200px;
+
+}
+.coldWidth12-12{
+    width:100%;
+}
+.coldWidth12-12{
+    width:100%;
+}
+.coldWidth12-12{
+    width:100%;
+}
+.hi50{
+    height:50px;
+    background-color: rgba(0,0,0,.7);
+}
+.hi50 a {
+    color:deeppink;
+    text-decoration: none;
+}
+.flexCentered{
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
